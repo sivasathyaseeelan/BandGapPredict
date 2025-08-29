@@ -1,0 +1,10 @@
+matplotlib
+scikit-learn
+plotly
+matminer
+molmass
+pandas
+numpy
+torch
+torch-geometric
+xgboost
