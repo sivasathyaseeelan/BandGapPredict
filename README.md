@@ -1,1 +1,1 @@
-# Band Gap Prediction# BandGapPredict
+# Band Gap Prediction
